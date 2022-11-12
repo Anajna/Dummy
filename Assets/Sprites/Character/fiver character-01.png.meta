@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 54e18c688ea5ea949a894e87381c6f39
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fiver character-01_0
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 559
+        width: 231
+        height: 243
+      alignment: 9
+      pivot: {x: 0.49508184, y: 0.037125953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77328b04425e6d04ea2256fba2317c82
+      internalID: 2124036035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiver character-01_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 434
+        width: 40
+        height: 78
+      alignment: 9
+      pivot: {x: 0.54799175, y: 0.99837786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcc6e2741741284983bf3f2e449d690
+      internalID: 620788853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiver character-01_2
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 407
+        width: 76
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d467ba110f1d0f24b99c5b6f970c73a5
+      internalID: -932478913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiver character-01_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 450
+        width: 37
+        height: 81
+      alignment: 9
+      pivot: {x: 0.46929273, y: 0.8646881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60776bf54a202654fafa6da4adffb9a9
+      internalID: -390033997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiver character-01_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 303
+        width: 43
+        height: 86
+      alignment: 9
+      pivot: {x: 0.33258572, y: 0.9520175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c7d8e7cdce7cc428800e1f1d772216
+      internalID: 1571570707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiver character-01_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 280
+        width: 53
+        height: 92
+      alignment: 9
+      pivot: {x: 0.55432993, y: 0.9590534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0dc1d547f685d4ca51dced9b8572bb
+      internalID: 1950460552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiver character-01_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 273
+        width: 56
+        height: 99
+      alignment: 9
+      pivot: {x: 0.21719034, y: 0.96537673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9ca211aa2d10346be1e077d269dca0
+      internalID: -1527425754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiver character-01_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 314
+        width: 41
+        height: 85
+      alignment: 9
+      pivot: {x: 0.33803278, y: 0.95388114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7d16db4283046409894fe256d9bfa2
+      internalID: -1560216353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiver character-01_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 158
+        width: 41
+        height: 78
+      alignment: 9
+      pivot: {x: 0.4539553, y: 0.9719688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff646aa7336cdd429dfede511e6c174
+      internalID: -1323727067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiver character-01_9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 152
+        width: 40
+        height: 78
+      alignment: 9
+      pivot: {x: 0.47640228, y: 0.9719692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9744f2f8befa14ba580336fa93170c
+      internalID: 1485365521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiver character-01_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 95
+        width: 76
+        height: 43
+      alignment: 9
+      pivot: {x: 0.37579808, y: 0.7414723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3479148dc4f0fbc4c91f43aa4635704d
+      internalID: -1241759757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fiver character-01_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 106
+        width: 76
+        height: 44
+      alignment: 9
+      pivot: {x: 0.38821933, y: 0.73598516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7cb39eb4b92984a93f93c66559f229
+      internalID: -737777540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      fiver character-01_11: -737777540
+      fiver character-01_10: -1241759757
+      fiver character-01_7: -1560216353
+      fiver character-01_5: 1950460552
+      fiver character-01_0: 2124036035
+      fiver character-01_2: -932478913
+      fiver character-01_4: 1571570707
+      fiver character-01_6: -1527425754
+      fiver character-01_9: 1485365521
+      fiver character-01_8: -1323727067
+      fiver character-01_1: 620788853
+      fiver character-01_3: -390033997
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
